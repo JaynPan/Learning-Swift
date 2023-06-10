@@ -35,7 +35,7 @@ struct ContentView: View {
                 Button {
                     isNight.toggle()
                 } label: {
-                    WeatherButton(title: "Change Day of Time", isNight: <#T##Binding<Bool>#>)
+                    WeatherButton(title: "Change Day of Time", isNight: $isNight)
                 }
                 
                 Spacer()
