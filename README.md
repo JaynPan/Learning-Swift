@@ -24,4 +24,14 @@ Learning Points:
 <img width="250" alt="image" src="https://github.com/JaynPan/swift-weather-ui/assets/40001097/fcff9be7-93e0-403b-a001-04aa5a4e24d2">
 
 
+---
+## Chart UI
+Learning Point:
+* Bar chart modifier
+* Identifiable protocol
+* Extension type
+
+<img width="250" alt="image" src="https://github.com/JaynPan/Learning-Swift/assets/40001097/709a8570-4206-47e4-9b5f-54fda0429b59">
+<img width="250" alt="image" src="https://github.com/JaynPan/Learning-Swift/assets/40001097/6295a374-05da-4641-a72f-b2c90d7de5b4">
+
 
