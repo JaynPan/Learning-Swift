@@ -34,4 +34,12 @@ Learning Point:
 <img width="250" alt="image" src="https://github.com/JaynPan/Learning-Swift/assets/40001097/709a8570-4206-47e4-9b5f-54fda0429b59">
 <img width="250" alt="image" src="https://github.com/JaynPan/Learning-Swift/assets/40001097/6295a374-05da-4641-a72f-b2c90d7de5b4">
 
+---
+
+## Network request
+* Decoder
+* Handling request error
+* Display Github User data at screen
+
+  <img width="250" alt="image" src="https://github.com/JaynPan/Learning-Swift/assets/40001097/8805e1ba-a91f-4424-8f7e-0dbd9db7d3e7">
 
